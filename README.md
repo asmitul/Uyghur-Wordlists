@@ -1,0 +1,2 @@
+# Uyghur-Wordlists
+uyghur wordlists
